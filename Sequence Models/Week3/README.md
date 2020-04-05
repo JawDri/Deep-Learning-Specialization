@@ -1,0 +1,1 @@
+Sequence models can be augmented using an attention mechanism. This algorithm will help our model understand where it should focus its attention given a sequence of inputs. This week, we will also learn about speech recognition and how to deal with audio data.
